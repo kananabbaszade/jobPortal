@@ -3,6 +3,7 @@ Flutter Job Application UI
  ![Job-board](https://github.com/user-attachments/assets/8115d0c0-4491-48dd-9337-d466985e162c)
  
 This project is a modern job application interface built with Flutter. It features a minimalist and sleek design that allows users to view job postings and apply easily.
+
 📌 Features
 
 ✅ Job Details Card
