@@ -25,5 +25,5 @@ This project is a modern job application interface built with Flutter. It featur
 	•	Easy to navigate and interact with.
 	•	Optimized with Flutter’s powerful UI components.
  
- ![EkranKayd2025-02-26OS4 01 24-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5a4b402-bcbb-4462-a923-1cd115b3798c)
+![EkranKayd2025-02-26OS4 01 24-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e08ca5dd-cef1-4755-8cca-ae08d66a2220)
 
