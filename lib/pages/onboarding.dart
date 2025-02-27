@@ -47,7 +47,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
             Expanded(
               flex: 2,
               child: SvgPicture.asset(
-                'assets/svg/onBoard.svg',
+                'assets/svg/onboarding.svg',
               ),
             )
           ],

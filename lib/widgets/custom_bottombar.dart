@@ -54,6 +54,7 @@ class _CustomBottomBarState extends State<CustomBottomBar> {
                   onPressed: () {
                     setState(() {
                       widget.job.isSaved = true;
+                      Navigator.pop(context);
                     });
                   },
                   child: Text(
@@ -84,6 +85,7 @@ class _CustomBottomBarState extends State<CustomBottomBar> {
                     onPressed: () {
                       setState(() {
                         widget.job.isApplied = true;
+                        Navigator.pop(context);
                       });
                     },
                     child: const Row(
